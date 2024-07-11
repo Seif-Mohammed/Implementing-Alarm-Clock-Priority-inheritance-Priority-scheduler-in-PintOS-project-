@@ -1,13 +1,5 @@
 # PintOS-Project-1
-Personal solution to PintOS Project 1.
 
-## Note
-- Only modified files are uploaded for simplification.
-- The format may be untidy in Windows/MacOS, but should be okay in Linux.
-- Report is written only in Chinese.
-- Parts of code that are hard to understand is explained with comment, but I think most of the code is self-explanatory.
-- Modified code starts with ```/* Solution Code */``` so that they're easy to find.
-- The name of the function ```checkInvoke()``` might seem strange, because our teacher provide us this one and I don't want to change it.
 
 ## What is modified in this project?
 - In ```device/```
